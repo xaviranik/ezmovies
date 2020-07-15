@@ -1,0 +1,25 @@
+[{
+        "name": "Avengers Endgame",
+        "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/108b520c55e3c9760f77a06110d6a73b_e97cf224-d57f-44e3-8477-4f5479cd746b_480x.progressive.jpg?v=1573616089",
+        "genre": "Action, Sci-Fi"
+    },
+    {
+        "name": "Black Panther",
+        "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/ff3aa8492a1058e0e5e57fdfdd801a5c_a967eddc-f5fe-4ed2-b200-9e3cedcba082_480x.progressive.jpg?v=1573585387",
+        "genre": "Action, Sci-Fi, Superhero"
+    },
+    {
+        "name": "The Dark Knight",
+        "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/54281a3a772119a7cebd696cd85357c7_f8dde246-3545-45c3-8cc1-452d180c778c_480x.progressive.jpg?v=1573587559",
+        "genre": "Crime, Thriller"
+    },
+    {
+        "name": "The Shawshank Redemption",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/9f22e23817c4accbf052e0f91a2b7821_156f8e4f-814c-4dcb-896d-0b077053cd51_480x.progressive.jpg?v=1573593734",
+        "genre": "Crime, Thriller"
+    }
+]

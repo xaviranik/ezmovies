@@ -17,3 +17,9 @@ export default {
   }
 };
 </script>
+
+<style lang="scss">
+body {
+  font-family: "Roboto", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+}
+</style>
