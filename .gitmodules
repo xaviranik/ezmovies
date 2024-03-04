@@ -1,0 +1,4 @@
+[submodule "plugins/rbc-wealth-management-blocks"]
+	path = plugins/rbc-wealth-management-blocks
+	url = https://github.com/wpcomvip/rbc-wealth-management.git
+	branch = main
